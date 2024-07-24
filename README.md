@@ -11,6 +11,8 @@ Simple indent program for Verilog source code.
 
 * [bmartini/vdent: Verilog Indenter. Simple indent program for Verilog source code. Trims end of line white space and indents lines based on nested depth of code blocks.](https://github.com/bmartini/vdent)  
   上游專案
+* （開發中）[Unofficial snap packaging for vdent](https://gitlab.com/brlin/vdent-snap)  
+  Provides ready-to-use vdent builds for snap-enabled operating systems.
 
 ## 參考資料
 

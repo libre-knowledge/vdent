@@ -12,3 +12,7 @@
 	url = https://github.com/bmartini/vdent.git
 	ignore = dirty
 	fetchRecurseSubmodules = false
+[submodule "Unofficial snap packaging for vdent"]
+	path = Unofficial snap packaging for vdent
+	url = https://gitlab.com/brlin/vdent-snap.git
+	ignore = dirty
